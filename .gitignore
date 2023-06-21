@@ -170,6 +170,10 @@ cython_debug/
 /**/projects
 /**/logs
 
+Detection/yolov3/
+Detection/yolov3_tf2/
+Detection/yolov5/
+
 # filename extension
 *.txt
 *.mp3
@@ -189,3 +193,4 @@ cython_debug/
 *.gz
 *.caffemodel
 *.whl
+
